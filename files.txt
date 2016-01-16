@@ -1,0 +1,12 @@
+/home/michiel/admin-action-view/lib/python2.7/site-packages/adminadctienview-0.1-py2.7.egg/adminactionview/views.py
+/home/michiel/admin-action-view/lib/python2.7/site-packages/adminadctienview-0.1-py2.7.egg/adminactionview/views.pyc
+/home/michiel/admin-action-view/lib/python2.7/site-packages/adminadctienview-0.1-py2.7.egg/adminactionview/forms.py
+/home/michiel/admin-action-view/lib/python2.7/site-packages/adminadctienview-0.1-py2.7.egg/adminactionview/__init__.pyc
+/home/michiel/admin-action-view/lib/python2.7/site-packages/adminadctienview-0.1-py2.7.egg/adminactionview/forms.pyc
+/home/michiel/admin-action-view/lib/python2.7/site-packages/adminadctienview-0.1-py2.7.egg/adminactionview/__init__.py
+/home/michiel/admin-action-view/lib/python2.7/site-packages/adminadctienview-0.1-py2.7.egg/adminactionview/templates/adminactienview/base.html
+/home/michiel/admin-action-view/lib/python2.7/site-packages/adminadctienview-0.1-py2.7.egg/EGG-INFO/dependency_links.txt
+/home/michiel/admin-action-view/lib/python2.7/site-packages/adminadctienview-0.1-py2.7.egg/EGG-INFO/not-zip-safe
+/home/michiel/admin-action-view/lib/python2.7/site-packages/adminadctienview-0.1-py2.7.egg/EGG-INFO/SOURCES.txt
+/home/michiel/admin-action-view/lib/python2.7/site-packages/adminadctienview-0.1-py2.7.egg/EGG-INFO/PKG-INFO
+/home/michiel/admin-action-view/lib/python2.7/site-packages/adminadctienview-0.1-py2.7.egg/EGG-INFO/top_level.txt
