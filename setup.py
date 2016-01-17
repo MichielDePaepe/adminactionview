@@ -8,7 +8,7 @@ setup(
     author='Michiel De Paepe',
     author_email='michiel.de.paepe@gmail.com',
     packages=find_packages(),
-    url='http://bitbucket.org/bruno/django-geoportail',
+    url='https://github.com/MichielDePaepe/adminactionview',
     license='MIT licence, see LICENCE.txt',
     description='Add an intermediate page to the django admin when preforming actions. Here you can define extra parameters for your action',
     long_description=open('README.txt').read(),
