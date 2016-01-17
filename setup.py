@@ -4,7 +4,7 @@ from setuptools import find_packages
 
 setup(
     name='adminactionview',
-    version='0.1',
+    version='0.2',
     author='Michiel De Paepe',
     author_email='michiel.de.paepe@gmail.com',
     packages=find_packages(),
